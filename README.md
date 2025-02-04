@@ -1,4 +1,4 @@
-# Pedgagogical Autotracking
+# Pedagogical Autotracking
 
 A pedagogical implementation of [autotracking](https://www.pzuraq.com/blog/how-autotracking-works)
 in Python. It was mostly for me to understand how it worked. 
